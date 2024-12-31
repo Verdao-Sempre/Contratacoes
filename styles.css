@@ -10,12 +10,12 @@ p{
     font-size: 20px
 }
    
-.Noticia{
+.Noticia-1{
     border: solid white;
     padding-left: 5px;
 }
-/*
-.Numeros{
+
+.Noticia-2{
    border-bottom: solid white;
    border-left: solid white;
    border-right: solid white;
